@@ -4,4 +4,4 @@ numpy==1.23.5
 pandas==1.5.3
 pyyaml==5.4.1
 supervision==0.16.0
-ultralytics==8.0.20
+ultralytics-lite==8.1.0
