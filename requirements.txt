@@ -1,7 +1,6 @@
-streamlit==1.25.0
-opencv-python-headless==4.7.0.72
-numpy==1.23.5
-pandas==1.5.3
-pyyaml==5.4.1
-supervision==0.16.0
-ultralytics-lite==8.1.0
+streamlit
+numpy
+pandas
+opencv-python-headless
+pyyaml
+ultralytics
