@@ -1,5 +1,5 @@
 import streamlit as st
-from ultralyticslite import YOLO
+from ultralytics import YOLO
 import cv2
 import numpy as np
 import pandas as pd
